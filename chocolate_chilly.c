@@ -1,3 +1,8 @@
+/*
+Name: SIVARAMA SUBRAMANIAN B R
+Date: 29-10-2026
+Description: Chocolate Chilly Game
+*/
 #include<stdio.h>
 int main ()
 {
